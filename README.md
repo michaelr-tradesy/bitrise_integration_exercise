@@ -5,4 +5,5 @@ This is the keystore credentials:
 Alias: BitriseIntegrationExercise
 Password: guest00001
 
-The keystore file will be found here: ../keystores/BitriseIntergrationExercise
+The keystore file is zipped in the keystores folder.
+The name of the actual keystore file is BitriseIntergrationExercise.
